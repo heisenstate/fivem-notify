@@ -1,14 +1,14 @@
 # fivem-notify
-Lightweight FiveM notification system - 4 types, progress bar, slide animation
-# fivem-notify
 
 Lightweight notification system for FiveM.
 
-4 notification types - success, error, info, action. Each with a matching icon, color and progress bar.
+4 notification types — success, error, info, action. Each with a matching icon, color and progress bar.
 
 > **Tested on ESX 1.2 only.** Compatibility with other frameworks is not guaranteed.
 
 ## Preview
+
+![Preview](https://cdn.heisenstate.de/img/notify-system-preview.png)
 
 Notifications slide in from the left with a shrinking progress bar. Auto-dismiss after 4 seconds.
 
