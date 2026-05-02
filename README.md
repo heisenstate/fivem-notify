@@ -56,4 +56,4 @@ end, true) -- true = ace restricted (add 'command.notify-test' to your ACE confi
 
 ## License
 
-GNU AGPLv3 — see [LICENSE](LICENSE)
+MIT — see [LICENSE](LICENSE)
